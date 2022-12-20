@@ -1,3 +1,5 @@
+NOTE: this helm chart was originally writen and maintained by k8s-at-home. I wish we could have preserved the git history but the original repo was depricated and removed from github & artifacts hub.
+
 # powerdns
 
 ![Version: 4.0.0](https://img.shields.io/badge/Version-4.0.0-informational?style=flat-square) ![AppVersion: v4.3.1](https://img.shields.io/badge/AppVersion-v4.3.1-informational?style=flat-square)
